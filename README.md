@@ -88,8 +88,9 @@ endmodule
 
 **RTL realization Output:** 
 
-![RTL](https://github.com/user-attachments/assets/44018b69-40c1-4f33-ba33-f2e8b2480513)
+![RTL](https://github.com/user-attachments/assets/d6f8daad-0ee8-4579-9476-f9e7871504a8)
 
 **Result:**
+
 Thus the result has been verified successfully
 
