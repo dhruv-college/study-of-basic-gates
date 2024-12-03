@@ -84,11 +84,11 @@ endmodule
  
 **Logic symbol & Truthtable**
 
-![Logic Gates](https://github.com/user-attachments/assets/b91bf363-3ca2-4965-b989-b3bd3da30804)
+![Logic Gates](https://github.com/user-attachments/assets/cfb93da5-0baf-468d-a8b5-ca8688807156)
 
 **RTL realization Output:** 
 
-![RTL](https://github.com/user-attachments/assets/292f6f5b-9520-411a-b664-43ff67489626)
+![RTL](https://github.com/user-attachments/assets/44018b69-40c1-4f33-ba33-f2e8b2480513)
 
 **Result:**
 Thus the result has been verified successfully
